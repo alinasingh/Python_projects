@@ -7,11 +7,11 @@ The Pizza Store wants to create an annual sales report for 2015. So that, the ow
 • <a href="https://github.com/alinasingh/Python_projects/blob/main/Pizza_analysis/pizza_sales11.csv">Dateset</a>
 
 ##Questions(KPIs)
-• Which months got the highest sales?
-• List the top 10 Pizza names according to sales.
-• Who is the most pizza sales category?
-• What is the total price of each pizza name?
-• What is the sum of quantity and sales by pizza_catogory?
+Which months got the highest sales?
+List the top 10 Pizza names according to sales.
+Who is the most pizza sales category?
+What is the total price of each pizza name?
+What is the sum of quantity and sales by pizza_catogory?
 
 ##Process in python
 • Exploratory Data Analysis (EDA) in Python is an essential step in understanding the structure and characteristics of a dataset before applying machine learning or statistical analysis.
