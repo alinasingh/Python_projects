@@ -25,6 +25,10 @@ This project involves using Pandas, Matplotlib, and Seaborn to analyze and visua
 
 ## Dashboard
 ![Capture3](https://github.com/user-attachments/assets/a0a5fe7c-e43c-4fff-ac2b-caee4991f5ca)
+![Capture4](https://github.com/user-attachments/assets/ddd1a3f1-8b4d-4bcc-b96a-c2c06468987e)
+![Capture5](https://github.com/user-attachments/assets/638bb3a3-1ae3-4507-8f6c-15777a458e82)
+
+
 
 
 ## Final Conclusion:
